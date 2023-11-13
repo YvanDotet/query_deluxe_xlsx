@@ -14,5 +14,6 @@
         'data': [
                 'report/print_xlsx.xml'
         ],
+        'images': ['static/description/icon.png']
 }
 
