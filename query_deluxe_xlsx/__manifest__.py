@@ -2,7 +2,7 @@
         'name': 'Xlsx extension for Query Deluxe',
         'description': 'Print postgreSQL query on xlsx format',
         'author': 'Yvan Dotet',
-        'depends': ['query_deluxe', 'contact'],
+        'depends': ['query_deluxe'],
         'auto_install': True,
         'application': False,
         'version': '17.0.0.1',
